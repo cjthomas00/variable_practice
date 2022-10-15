@@ -14,3 +14,9 @@ married = true
 pets = true
 motorcycle = false
 
+dog = "Sadie"
+email = "cjthomas2839@gmail.com"
+
+puts "I am #{age} years old."
+puts "You can reach me at #{email}."
+puts "#{dog} is a rescue we've had a year."
